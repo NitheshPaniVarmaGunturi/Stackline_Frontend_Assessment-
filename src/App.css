@@ -1,0 +1,13 @@
+.mainContainer{
+    display: flex;
+    justify-content:space-between;
+    padding:2rem;
+}
+
+.contentContainer{
+    background-color: #f6f8fa;
+    width: 73%;
+}
+.salesRecords{
+    box-shadow: 30px 30px 40px -20px hsl(229deg 6% 66%);
+}

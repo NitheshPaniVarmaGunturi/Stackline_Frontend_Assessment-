@@ -1,0 +1,9 @@
+.tableColor{
+    background-color:white;
+    flex-direction: column;
+    align-items: center;
+    height: auto !important;
+    margin-left: 1vw !important;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+}
+
