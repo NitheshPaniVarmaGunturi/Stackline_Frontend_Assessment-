@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Stackline_Frontend_Assessment-/static/css/main.5cc43112.chunk.css",
+    "main.js": "/Stackline_Frontend_Assessment-/static/js/main.d6c69087.chunk.js",
+    "main.js.map": "/Stackline_Frontend_Assessment-/static/js/main.d6c69087.chunk.js.map",
+    "runtime-main.js": "/Stackline_Frontend_Assessment-/static/js/runtime-main.a596ee65.js",
+    "runtime-main.js.map": "/Stackline_Frontend_Assessment-/static/js/runtime-main.a596ee65.js.map",
+    "static/css/2.bfa46653.chunk.css": "/Stackline_Frontend_Assessment-/static/css/2.bfa46653.chunk.css",
+    "static/js/2.297086a5.chunk.js": "/Stackline_Frontend_Assessment-/static/js/2.297086a5.chunk.js",
+    "static/js/2.297086a5.chunk.js.map": "/Stackline_Frontend_Assessment-/static/js/2.297086a5.chunk.js.map",
+    "index.html": "/Stackline_Frontend_Assessment-/index.html",
+    "precache-manifest.2c978b5a48d996ea7dd6eef4938f7c5f.js": "/Stackline_Frontend_Assessment-/precache-manifest.2c978b5a48d996ea7dd6eef4938f7c5f.js",
+    "service-worker.js": "/Stackline_Frontend_Assessment-/service-worker.js",
+    "static/css/2.bfa46653.chunk.css.map": "/Stackline_Frontend_Assessment-/static/css/2.bfa46653.chunk.css.map",
+    "static/css/main.5cc43112.chunk.css.map": "/Stackline_Frontend_Assessment-/static/css/main.5cc43112.chunk.css.map",
+    "static/js/2.297086a5.chunk.js.LICENSE.txt": "/Stackline_Frontend_Assessment-/static/js/2.297086a5.chunk.js.LICENSE.txt",
+    "static/media/stackline_logo.svg": "/Stackline_Frontend_Assessment-/static/media/stackline_logo.64b21497.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a596ee65.js",
+    "static/css/2.bfa46653.chunk.css",
+    "static/js/2.297086a5.chunk.js",
+    "static/css/main.5cc43112.chunk.css",
+    "static/js/main.d6c69087.chunk.js"
+  ]
+}
